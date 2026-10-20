@@ -24,27 +24,21 @@ Based in Erlangen, Germany
 
 ## 👩‍💻 About Me
 
-I am an M.Sc. candidate in Computational and Applied Mathematics at
-FAU Erlangen-Nürnberg, with experience in financial-instrument valuation,
-mathematical modelling, numerical methods and scientific computing.
+I am a Computational and Applied Mathematics graduate from Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), with experience in mathematical modelling, numerical methods, scientific computing, and financial-instrument valuation.
 
-During my internship at KPMG Deutschland, I worked on the valuation and
-analysis of equities, fixed-income securities, derivatives, funds,
-commodities and structured products. My work included financial-market
-data processing, fair-value assessment and structured valuation analysis.
+During my internship at KPMG Deutschland, I worked on the valuation and analysis of equities, fixed-income securities, derivatives, funds, commodities, and structured products. My responsibilities included financial-market data processing, fair-value assessment, and structured valuation analysis.
 
-My master's thesis investigates an existence result for weak solutions
-of a variable-density two-phase flow model. The research involves
-partial differential equations, Faedo-Galerkin approximations,
-energy estimates and compactness methods.
+My master's thesis investigated the existence of weak solutions for a variable-density, two-phase flow model. This research involved nonlinear partial differential equations (PDEs), Faedo–Galerkin approximations, energy estimates, and compactness methods.
 
-My interests include:
+I am particularly interested in applying mathematical and computational techniques to interdisciplinary research problems, including mathematical biology, computational modelling of multicellular systems, and the numerical simulation of complex biological processes.
 
-- Financial and quantitative analysis
-- Mathematical modelling and numerical simulation
-- Machine learning for scientific applications
-- Risk analysis and valuation
-- High-performance and parallel computing
+### Research and Technical Interests
+
+- **Mathematical Biology:** Mathematical modelling of cellular systems, tumour growth, cell migration, and multicellular dynamics.
+- **Mathematical Modelling and Numerical Analysis:** Nonlinear PDEs, dynamical systems, numerical simulation, and applied analysis.
+- **Scientific Computing:** High-performance computing, parallel algorithms, and computational methods for complex systems.
+- **Machine Learning for Scientific Applications:** Neural networks, data-driven modelling, and computational approaches to differential equations.
+- **Quantitative Analysis and Risk Modelling:** Financial-instrument valuation, quantitative methods, and uncertainty analysis.
 
 ---
 
