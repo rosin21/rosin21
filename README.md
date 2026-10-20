@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rosin Jimmy 👋</h1>
 
 <h3 align="center">
-Computational Mathematics | Financial Analysis | Risk Analysis | Scientific Computing
+Computational Mathematics | Financial Analysis | Risk Analysis | Scientific Computing | Mathematical Biology
 </h3>
 
 <p align="center">
