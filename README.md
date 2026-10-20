@@ -43,7 +43,26 @@ I am particularly interested in applying mathematical and computational techniqu
 ---
 
 ## 🚀 Featured Projects
+### 🧬 Cellular Automaton Model of Tumour Growth and Spatial Spread
 
+Developed a stochastic cellular automaton in Python to investigate how cell proliferation and migration influence population size and spatial spread in a simplified two-dimensional lattice model.
+
+**Highlights**
+
+- Implemented probabilistic cell division and migration rules using a Moore neighbourhood.
+- Designed four computational experiments to investigate migration, proliferation, their combined effects, and sensitivity to an implementation choice.
+- Analysed simulation outcomes using repeated stochastic runs, summary statistics, and visualisations.
+- Investigated how migration can increase spatial spread independently of population growth when cell division is disabled.
+- Evaluated the sensitivity of model outcomes to the treatment of recently vacated lattice sites.
+- Documented modelling assumptions, reproducibility procedures, and limitations.
+
+**Technologies:** Python, NumPy, pandas, Matplotlib, Stochastic Simulation, Mathematical Modelling, Computational Biology
+
+**Research relevance:** Mathematical Biology, Cellular Dynamics, Tumour Modelling, Scientific Computing
+
+**Scope:** Exploratory computational model; not biologically validated.
+
+[View repository](https://github.com/rosin21/Tumour_cellular_automaton_project/blob/main/tumour_cellular_automaton_project.ipynb))
 ### 🧠 Neural Networks for Solving Ordinary Differential Equations
 
 Investigated feedforward neural networks as function approximators for
