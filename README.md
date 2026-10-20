@@ -182,7 +182,7 @@ Risk Assessment
 
 | Degree | Institution | Status |
 |---|---|---|
-| M.Sc. Computational and Applied Mathematics | FAU Erlangen-Nürnberg, Germany | Expected 2026 |
+| M.Sc. Computational and Applied Mathematics | FAU Erlangen-Nürnberg, Germany | 2026(Completed) |
 | B.Sc. Mathematics with Computer Science and Statistics | BVM Holy Cross College, India | Completed |
 
 ---
@@ -217,7 +217,7 @@ Risk Assessment
 ## 📫 Connect With Me
 
 I am interested in opportunities and collaborations involving financial
-analysis, quantitative modelling, risk analysis, scientific computing
+analysis, quantitative modelling, risk analysis, scientific computing, mathematical biology 
 and applied machine learning.
 
 - [LinkedIn](https://www.linkedin.com/in/rosin-jimmy)
